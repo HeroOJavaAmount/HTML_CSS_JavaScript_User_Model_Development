@@ -1,0 +1,12 @@
+@import url("styles/Main-heading.css");
+.Main-heading {
+                text-align: center;
+              }
+.Main-link {
+                text-align: center;
+                color: rgb(0, 0,0);
+                background-color: #d9534f;
+                display: block;
+                  width: 50px;
+                  margin: 0 auto;
+}
